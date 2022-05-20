@@ -1,0 +1,14 @@
+.user {
+    padding: 0.5rem;
+    border: 1px solid #aeaeae;
+    border-radius: 5px;
+}
+.user:not(:last-of-type) {
+    margin-bottom: 0.5rem;
+}
+.name{
+    font-weight: 500;
+}
+.age {
+    margin-left: 0.5rem;
+}

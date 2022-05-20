@@ -1,0 +1,25 @@
+.form {
+    padding: 1rem;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+.wrapper {
+    width: 90%;
+    margin: 0 0 1rem;
+}
+.wrapper label {
+    display: block;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+.wrapper input {
+    display: block;
+    width: 100%;
+    padding: 0.7rem;
+    font-size: 1rem;
+    outline: none;
+    border: 1px solid #aeaeae;
+    border-radius: 5px;
+}

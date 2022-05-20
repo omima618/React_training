@@ -1,0 +1,10 @@
+.container {
+    width: 95%;
+    margin: 1rem auto;
+    padding: 1rem;
+}
+@media (min-width: 600px) {
+    .container {
+        width: 80%;
+    }
+}
